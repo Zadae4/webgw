@@ -7,13 +7,14 @@ body{
 }
 
 header{
-    width:200%;
+    width:90%;
     margin:auto;
-    height:150px;
-    line-height:150px;
+    height:120px;
+    line-height:120px;
     background:#417aa8;
     color:#fff;
 }
+
 
 
 
