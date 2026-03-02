@@ -7,11 +7,12 @@ body{
 }
 
 .header{
-    width:110%;
+    width:100%;
     margin:auto;
     height:120px;
     line-height:120px;
     background:#E6A341;
     color:#111a19;
 }
+
 
